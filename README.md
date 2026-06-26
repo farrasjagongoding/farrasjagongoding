@@ -23,9 +23,15 @@
 
 ## About
 
-I'm a web developer and AI enthusiast based in Yogyakarta, Indonesia. I build modern web applications using **React, Vue, Laravel, and Astro.js**, and I have a growing focus on **machine learning** — particularly NLP and sentiment analysis. I'm comfortable working across the full stack and enjoy turning ideas into clean, functional products.
+I'm a 3rd-year Information Technology student at **Universitas Negeri Yogyakarta**, building real-world projects alongside my studies since 2023.
 
-Currently open to **freelance projects** and **internship opportunities**.
+On the web side, I work across the full stack — frontend with **React, Vue.js, and Astro.js**, backend with **Laravel and PHP**, and styling with **Tailwind CSS**. I care about writing clean code and building interfaces that are actually pleasant to use.
+
+On the AI side, I've been diving into **NLP and sentiment analysis** — building classifiers, labeling datasets manually, and validating model performance. It's where I spend most of my learning time outside of class.
+
+Outside of code, I'm into graphic design, photography, and hunting for good coffee in Yogyakarta.
+
+I'm currently open to **freelance projects** and **internship opportunities** — I work well independently and adapt quickly to new stacks and teams.
 
 ---
 
