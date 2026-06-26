@@ -71,10 +71,3 @@ S1 Information Technology student at Universitas Negeri Yogyakarta (2023–prese
 </div>
 
 ---
-
-## Organization Experience
-
-- **Head of Division 3** – HIMANIKA UNY *(2025–2026)* — Led organizational development and external relations programs.
-- **Staff, Organizational Network** – HIMANIKA UNY *(2024–2025)* — Managed inter-organizational partnerships and institutional relations.
-- **Committee Chair, Industry Visit** – HIMANIKA UNY *(Jul–Sep 2024)* — Organized visits to Pandi ID, Jakarta Smart City, and BSSN.
-- **Conceptor & Liaison Officer – PRIME FEST 2024** – HIMANIKA UNY *(Sep–Nov 2024)* — Designed the student concert event and coordinated with performers and sponsors.
