@@ -30,6 +30,8 @@ On the web side, I work across the full stack — frontend with **React, Vue.js,
 
 On the AI side, I've been diving into **NLP and sentiment analysis** — building classifiers, labeling datasets manually, and validating model performance. It's where I spend most of my learning time outside of class.
 
+Outside of code, I'm into graphic design, photography, and hunting for good coffee in Yogyakarta.
+
 I'm currently open to **freelance projects** and **internship opportunities** — I work well independently and adapt quickly to new stacks and teams.
 
 ---
@@ -48,11 +50,16 @@ I'm currently open to **freelance projects** and **internship opportunities** �
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=farrasjagongoding&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="200" alt="GitHub Streak" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=farrasjagongoding&show_icons=true&theme=dark&hide_border=false&border_radius=5&count_private=true" height="200" alt="GitHub Stats" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=farrasjagongoding&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="195" alt="GitHub Streak" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=farrasjagongoding&show_icons=true&theme=dark&hide_border=false&border_radius=5&count_private=true" height="195" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 ---
 
