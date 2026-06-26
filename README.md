@@ -30,8 +30,6 @@ On the web side, I work across the full stack — frontend with **React, Vue.js,
 
 On the AI side, I've been diving into **NLP and sentiment analysis** — building classifiers, labeling datasets manually, and validating model performance. It's where I spend most of my learning time outside of class.
 
-Outside of code, I'm into graphic design, photography, and hunting for good coffee in Yogyakarta.
-
 I'm currently open to **freelance projects** and **internship opportunities** — I work well independently and adapt quickly to new stacks and teams.
 
 ---
