@@ -1,85 +1,80 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Welcome Animation" />
-</div>
+<h1 align="center">Farras Ahmad Dany Fauzan</h1>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/315hbkc5tg2q3p77fl5fpevfkcsq?si=67d877abd6c84673">
-    <img src="https://img.shields.io/static/v1?message=Spotify&logo=spotify&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="spotify logo" />
+<p align="center">
+  <strong>Information Technology Student · Web Developer · AI Enthusiast</strong><br>
+  Universitas Negeri Yogyakarta — Sleman, Yogyakarta
+</p>
+
+<p align="center">
+  <a href="mailto:farrasahmad2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-farrasahmad2006%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://github.com/farrasjagongoding">
+    <img src="https://img.shields.io/badge/GitHub-farrasjagongoding-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@farrasahmad5706?si=SfwioTwlA2IZ-WZB">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=farrasjagongoding.farrasjagongoding&" alt="Profile Visitors" />
-</div>
-
-<h1 align="center">Hi there, I'm Farras Ahmad Dany Fauzan 👋</h1>
-
-<h4 align="center">Information Technology Student @ Universitas Negeri Yogyakarta | Web Developer</h4>
-
-<br>
-
-### 👨‍💻 About Me
-
-* 🎓 I'm currently studying Information Technology at **Universitas Negeri Yogyakarta (UNY)**, based in Sleman, Yogyakarta.
-* 💻 I have a strong interest in **Web Development** (Frontend & Backend) and have been exploring **Artificial Intelligence / Machine Learning**.
-* 🎨 Outside of coding, I enjoy graphic design, photography, videography, and finding good local coffee shops.
+  <a href="https://youtube.com/@farrasahmad5706">
+    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🚀 Experience & Featured Projects
+## About
 
-* **Sistem Informasi Lab:** Developed a laboratory management platform featuring equipment borrowing modules and damage reporting systems, built with **Laravel, Tailwind CSS, and MySQL**.
-* **CekFakta.id:** Created a news verification web application to help combat hoaxes, utilizing **Python and Streamlit**.
-* **Sistem Pendataan Warga:** Engineered a community information management system dedicated to recording data for non-permanent residents.
-* **AI & Sentiment Analysis:** Conducted research and implemented machine learning concepts including Multi-Layer Perceptron (MLP) and Long Short-Term Memory (LSTM) for data classification, including dataset validation using Cohen's Kappa metrics.
+S1 Information Technology student at Universitas Negeri Yogyakarta (2023–present) with hands-on experience in modern web development using JavaScript ecosystems (React, Vue, Astro.js) and PHP (Laravel, Native), as well as AI/ML development — particularly in sentiment analysis and NLP classification. Experienced in team collaboration with a strong track record of delivering end-to-end projects independently and in teams.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## Projects
 
-**Languages:**
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
+### AI & Machine Learning
 
-**Frameworks & Libraries:**
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="40" alt="Astro" title="Astro JS" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
+| Project | Description | Tech |
+|---|---|---|
+| **AI Analisis Mobile JKN** | Built an AI model to automatically classify user complaints on the Mobile JKN app; implemented an NLP data processing pipeline to improve complaint handling efficiency. | Python, NLP |
+| **Sentiment Analysis – Topik MBG** | Developed a Python-based sentiment analysis system to process and analyze public opinions; performed manual dataset labeling and algorithm accuracy validation. | Python, ML |
+| **Sentiment Dashboard** | Built an interactive React dashboard for real-time sentiment visualization; integrated Recharts and D3.js for positive, negative, and neutral sentiment representation. | React, Recharts, D3.js |
 
-**Tools & Deployment:**
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" title="GitLab" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" title="Vercel" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Adobe Illustrator" title="Adobe Illustrator" />
+### Web Development
+
+| Project | Description | Tech |
+|---|---|---|
+| **NusaLearn – Online Quiz Platform** | Developed an interactive web learning platform with real-time scoring, question management, and instructor dashboard. | Web (Modern Stack) |
+| **Sistem Informasi Laboratorium (SIL)** | Built an integrated lab inventory and equipment borrowing management system with search, filter, and loan reporting features. | Laravel, Tailwind CSS, MySQL |
+| **CekFakta.id** | Developed an automated hoax news verification tool using public API integration and web scraping; built an interactive UI for fast fact-checking. | Python, Streamlit |
+| **Website Pendataan Warga Sementara** | Created an administrative system for tracking non-permanent residents with a structured database for secure data management. | PHP, Bootstrap, MySQL |
+| **One Supply – E-Commerce** | Developed an e-commerce website for men's, women's, and children's clothing with responsive product catalog and detail pages. | HTML, CSS, Bootstrap |
 
 ---
 
-### 🔥 GitHub Stats
+## Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Languages** | Python · PHP · JavaScript · SQL · HTML5 |
+| **Frameworks & Libraries** | React · Vue.js · Laravel · Astro.js · Tailwind CSS · Bootstrap · Streamlit |
+| **AI / ML** | NLP · Sentiment Analysis · MLP · LSTM · Scikit-learn |
+| **Tools & Databases** | Git · GitHub · GitLab · MySQL · VS Code · Android Studio · Vercel |
+| **Specializations** | Web Development · Machine Learning / AI · REST API · Web Scraping |
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=farrasjagongoding&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=farrasjagongoding&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="200" alt="GitHub Streak" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=farrasjagongoding&show_icons=true&theme=dark&hide_border=false&border_radius=5&count_private=true" height="200" alt="GitHub Stats" />
 </div>
+
+---
+
+## Organization Experience
+
+- **Head of Division 3** – HIMANIKA UNY *(2025–2026)* — Led organizational development and external relations programs.
+- **Staff, Organizational Network** – HIMANIKA UNY *(2024–2025)* — Managed inter-organizational partnerships and institutional relations.
+- **Committee Chair, Industry Visit** – HIMANIKA UNY *(Jul–Sep 2024)* — Organized visits to Pandi ID, Jakarta Smart City, and BSSN.
+- **Conceptor & Liaison Officer – PRIME FEST 2024** – HIMANIKA UNY *(Sep–Nov 2024)* — Designed the student concert event and coordinated with performers and sponsors.
